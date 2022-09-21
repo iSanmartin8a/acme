@@ -13,6 +13,10 @@ author:
 
 menu:
   main: 
+    - identifier: viajes
+      name: viajes
+      url: /Viajes
+      weight: 50
     - identifier: curriculum
       name: curriculum
       url: /Curriculum
