@@ -50,6 +50,57 @@ Next level leggings before they sold out, PBR&B church-key shaman echo park. Kal
 | A table    | A header |
 | A table    | A header |
 
---hit
+---
 
 There’s a horizontal rule above and below this.
+
+---
+
+Here is an unordered list:
+
++ Liverpool F.C.
++ Chelsea F.C.
++ Manchester United F.C.
+
+And an ordered list:
+
+1. Michael Brecker
+2. Seamus Blake
+3. Branford Marsalis
+
+And an unordered task list:
+
++ - [X] Create a Hugo theme
++ - [X] Add task lists to it
++ - [ ] Take a vacation
+
+And a “mixed” task list:
+
++ - [ ] Pack bags
++ ?
++ - [ ] Travel!
+
+And a nested list:
+
++ Jackson 5
+    * Michael
+    * Tito
+    * Jackie
+    * Marlon
+    * Jermaine
++ TMNT
+    * Leonardo
+    * Michelangelo
+    * Donatello
+    * Raphael
+
+Definition lists can be used with Markdown syntax. Definition headers are bold.
+
+**Name**
+Godzilla
+**Born**
+1952
+**Birthplace**
+Japan
+**Color**
+Green
