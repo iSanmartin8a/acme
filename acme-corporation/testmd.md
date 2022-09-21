@@ -96,17 +96,17 @@ And a nested list:
 
 Definition lists can be used with Markdown syntax. Definition headers are bold.
 
-**Name**
-: Godzilla
+<dl>
+  <dt>Name</dt>
+  <dd>Godzilla</dd>
+  <dt>Born</dt>
+  <dd>1952</dd>
+  <dt>Birthplace</dt>
+  <dd>Japan</dd>
+  <dt>Color</dt>
+  <dd>Green</dd>
 
-**Born**
-: 1952
-
-**Birthplace**
-: Japan
-
-**Color**
-: Green
+</dl>
 
 Tables should have bold headings and alternating shaded rows.
 
@@ -155,4 +155,60 @@ Code can also use syntax highlighting.
     fmt.Println(buff.String())
     }
 
-``` Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this. ```
+``` 
+Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this. 
+```
+
+Inline code inside table cells should still be distinguishable.
+
+|Language|	Code|
+| ------------- |:-------------:|
+|Javascript|	`var foo = "bar";`|
+|Ruby|	`foo = "bar"{`|
+
+Small images should be shown at their actual size.
+
+![Flower](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Picea_abies_shoot_with_buds%2C_Sogndal%2C_Norway.jpg/240px-Picea_abies_shoot_with_buds%2C_Sogndal%2C_Norway.jpg)
+
+Large images should always scale down and fit in the content container.
+
+![Flower big](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Picea_abies_shoot_with_buds%2C_Sogndal%2C_Norway.jpg/1024px-Picea_abies_shoot_with_buds%2C_Sogndal%2C_Norway.jpg)
+
+*The photo above of the Spruce Picea abies shoot with foliage buds: Bjørn Erik Pedersen, CC-BY-SA.*
+
+## Components
+
+### Alerts
+
+<blockquote style="border-color:blue">
+This is an alert.
+</blockquote>
+
+<blockquote style="border-color:blue">
+<span style="color:blue">Note</span><br>
+This is an alert with a title.
+</blockquote>
+
+<blockquote style="border-color:blue">
+<span style="color:blue">Note</span>
+<br>
+This is an alert with a title and <b>Markdown</b>.
+</blockquote>
+
+<blockquote style="border-color:cyan">
+This is a successful alert.
+</blockquote>
+
+<blockquote style="border-color:orange">
+This is a warning.
+</blockquote>
+
+<blockquote style="border-color:orange">
+<span style="color:orange">Warning</span>
+<br>
+This is a warning with a title.
+</blockquote>
+
+## Another Heading
+
+Add some sections here to see how the ToC looks like. Bacon ipsum dolor sit amet t-bone doner shank drumstick, pork belly porchetta chuck sausage brisket ham hock rump pig. Chuck kielbasa leberkas, pork bresaola ham hock filet mignon cow shoulder short ribs biltong.
