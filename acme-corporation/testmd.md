@@ -26,4 +26,4 @@ Scenester tumeric pickled, authentic crucifix post-ironic fam freegan VHS pork b
 
 ### Header 3
 
-'This is a code block following a header.'
+    This is a code block following a header.
