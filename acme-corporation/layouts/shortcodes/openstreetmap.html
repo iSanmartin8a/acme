@@ -1,0 +1,28 @@
+{{ $mapName := .Get "acmecorporation" }}
+
+{{ $mapWidth := .Get "mapWidth" | default "70%" }}
+{{ $mapEight := .Get "mapEight" | default "600px" }}
+
+{{ $scaleControl := .Get "scaleControl" | default "true"  }}
+{{ $miniMap := .Get "miniMap" | default "true" }}
+{{ $scrollWheelZoom := .Get "scrollWheelZoom" | default "true" }}
+{{ $zoomControl := .Get "zoomControl" | default "true" }}
+{{ $allowEdit := .Get "allowEdit" | default "false" }}
+{{ $moreControl := .Get "moreControl" | default "true" }}
+{{ $searchControl := .Get "searchControl" | default "true" }}
+{{ $tilelayersControl := .Get "tilelayersControl" | default "null" }}
+{{ $embedControl := .Get "embedControl" | default "false" }}
+{{ $datalayersControl := .Get "datalayersControl" | default "null" }}
+{{ $onLoadPanel := .Get "onLoadPanel" | default "none" }}
+{{ $captionBar := .Get "captionBar" | default "true" }}
+{{ $fullscreenControl := .Get "fullscreenControl" | default "null" }}
+
+{{ $scale := .Get "scale" | default 7 }}
+{{ $coordX := .Get "coordX" | default 46.0275 }}
+{{ $coordY := .Get "coordY" | default 7.483 }}
+
+<div class="block">
+    <div class="google-map">
+        <iframe width="100%" height="300px" frameborder="0" allowfullscreen src="//umap.openstreetmap.fr/es/map/acmecorporation_810876?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false"></iframe><p><a href="//umap.openstreetmap.fr/es/map/acmecorporation_810876">Ver pantalla completa</a></p>
+    </div>
+</div>

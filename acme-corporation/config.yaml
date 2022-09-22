@@ -7,7 +7,7 @@ author:
   twitter: "https://twitter.com/example" 
   email: "contact@example.org" 
   name: "Acme Corporation" 
-  location: Zaragoza
+  location: Madrid
   phone: (999) 999-9999 
   hours: "**Lunes-Viernes** 9:00AM - 6:00PM" 
 
@@ -27,7 +27,7 @@ menu:
       weight: 100 
     - identifier: contact
       name: Contacto 
-      url: /contacto 
+      url: /contact 
       weight: 200 
 params: 
   color: "#4f46e5"
