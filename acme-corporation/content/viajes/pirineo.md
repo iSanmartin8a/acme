@@ -1,7 +1,7 @@
 ---
 title: "Pirineo"
 date: 2022-09-21T09:13:42+02:00
-draft: true
+draft: false
 ---
 
 ## Viajecito para Pirineo
