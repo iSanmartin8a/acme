@@ -1,7 +1,7 @@
 ---
 title: "Contacto"
 date: 2022-09-22T12:06:01+02:00
-draft: true
+draft: false
 ---
 
 ## Sobre nosotros
