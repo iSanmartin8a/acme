@@ -4,8 +4,6 @@ date: 2022-09-21T09:44:55+02:00
 draft: false
 ---
 
-<link rel="stylesheet" href="{{ .Site.BaseURL }}estilos.css">
-
 # Paris
 
 París...había sido uno de mis destinos pendientes de mis recorridos por Europa...fue un viaje rápido, pero bastante completo, aquí va mi historia:

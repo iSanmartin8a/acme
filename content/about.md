@@ -24,4 +24,6 @@ draft: false
 
 ## Este es nuestro pequeño equipo
 
-Sí, somos pocas personas, pero en el año y medio que llevamos desde que empezamos hemos cumplido de sobra nuestros objetivos. Estamos mirando para ampliar nuestro equipo, ya que, en nuestro inicio, eramos solo **Laura y Matías**. Esto es que hemos duplicado nuestro personal en nuestra corta vida en Acme.
+Sí, somos pocas personas, pero en el año y medio que llevamos desde que empezamos hemos cumplido de sobra nuestros objetivos. Estamos mirando para ampliar nuestro equipo, ya que, en nuestro inicio, eramos solo **Laura y Matías**. Esto es que hemos duplicado nuestro personal en nuestra corta vida en Acme. Podemos presumir de que estamos haciendo realidad, algo con lo que soñabamos de hace tiempo y que nos mueve a mejorar cada día. El concepto de sostenibilidad hace referencia a “equilibrio” y puede contemplarse desde distintos prismas: económico, social y medioambiental. Cuando hablamos de sostenibilidad empresarial nos referimos a la contribución de la empresa al desarrollo sostenible: su capacidad para satisfacer las necesidades actuales sin comprometer la capacidad de las generaciones futuras a satisfacer las suyas. 
+
+![Award](https://images.unsplash.com/photo-1614036417651-efe5912149d8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1519&q=80)
