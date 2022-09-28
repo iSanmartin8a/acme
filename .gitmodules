@@ -1,6 +1,6 @@
 [submodule "acme-corporation/themes/Eclectic"]
 	path = acme-corporation/themes/Eclectic
-	url = https://github.com/atishay/eclectic-hugo-theme
+	url = https://github.com/atishay/eclectic-hugo-theme.git
 	
 [submodule "acme-corporation/themes/SanmaTheme"]
 	path = acme-corporation/themes/SanmaTheme
