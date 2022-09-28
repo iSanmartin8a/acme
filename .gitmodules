@@ -1,0 +1,6 @@
+[submodule "themes/MyTheme"]
+	path = themes/MyTheme
+	url = https://github.com/iSanmartin8a/SanmaTheme.git
+[submodule "themes/Eclectic"]
+	path = themes/Eclectic
+	url = https://github.com/atishay/eclectic-hugo-theme.git
