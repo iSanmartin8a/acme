@@ -12,24 +12,6 @@ author:
   phone: (999) 999-9999 
   hours: "**Lunes-Viernes** 9:00AM - 6:00PM" 
 
-menu:
-  main: 
-    - identifier: viajes
-      name: viajes
-      url: /travels
-      weight: 50
-    - identifier: curriculum
-      name: curriculum
-      url: /Curriculum
-      weight: 50
-    - identifier: about 
-      name: Acerca de 
-      url: /about 
-      weight: 100 
-    - identifier: contact
-      name: Contacto 
-      url: /acme/contact 
-      weight: 200 
 params: 
   color: "#4f46e5"
   copyright: "Copyright ©; 2022 Acme Corporation. Todos los derechos reservados."

@@ -6,9 +6,9 @@ draft: false
 
 ## Sobre nosotros
 
-<div id="about1">
+<div class="about1">
 
-|![Jenni](https://www.bing.com/th?id=A3f1adcea54874a9cbae6c528efb3e5ff&w=120&h=168&c=4&rs=1&qlt=80&o=6&pid=SANGAM)|![Courtney](https://www.bing.com/th?id=OSK.10880d53a4c97f0d949df98ecd751b8e&w=120&h=168&c=4&rs=1&qlt=80&o=6&pid=SANGAM)|![Marta](https://www.bing.com/th?id=OSK.16538b5358224666e4ba4db50d4a76d0&w=120&h=168&c=4&rs=1&qlt=80&o=6&pid=SANGAM)|![Matias](https://www.bing.com/th?id=Abdd88b88422c26713e122d722f7051c6&w=120&h=168&c=4&rs=1&qlt=80&o=6&pid=SANGAM)|
+|![Jenni](https://www.bing.com/th?id=A3f1adcea54874a9cbae6c528efb3e5ff&w=120&h=168&c=4&rs=1&qlt=80&o=6&pid=SANGAM#thumbnail)|![Courtney](https://www.bing.com/th?id=OSK.10880d53a4c97f0d949df98ecd751b8e&w=120&h=168&c=4&rs=1&qlt=80&o=6&pid=SANGAM#thumbnail)|![Marta](https://www.bing.com/th?id=OSK.16538b5358224666e4ba4db50d4a76d0&w=120&h=168&c=4&rs=1&qlt=80&o=6&pid=SANGAM#thumbnail)|![Matias](https://www.bing.com/th?id=Abdd88b88422c26713e122d722f7051c6&w=120&h=168&c=4&rs=1&qlt=80&o=6&pid=SANGAM#thumbnail)|
 |:-------------:|:-----:|:-------------:|:-----:|
 |||||
 |||||
@@ -26,4 +26,5 @@ draft: false
 
 Sí, somos pocas personas, pero en el año y medio que llevamos desde que empezamos hemos cumplido de sobra nuestros objetivos. Estamos mirando para ampliar nuestro equipo, ya que, en nuestro inicio, eramos solo **Laura y Matías**. Esto es que hemos duplicado nuestro personal en nuestra corta vida en Acme. Podemos presumir de que estamos haciendo realidad, algo con lo que soñabamos de hace tiempo y que nos mueve a mejorar cada día. El concepto de sostenibilidad hace referencia a “equilibrio” y puede contemplarse desde distintos prismas: económico, social y medioambiental. Cuando hablamos de sostenibilidad empresarial nos referimos a la contribución de la empresa al desarrollo sostenible: su capacidad para satisfacer las necesidades actuales sin comprometer la capacidad de las generaciones futuras a satisfacer las suyas. 
 
-![Award](https://images.unsplash.com/photo-1614036417651-efe5912149d8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1519&q=80)
+|![Award](https://th.bing.com/th/id/R.aaa6939119b01d5d67bc49c06e7a3378?rik=Avlj0IOpxzeptQ&pid=ImgRaw&r=0#award)| AWARD RECICLAJE BUENO Y BARATO 2016|
+|-----|-----|
