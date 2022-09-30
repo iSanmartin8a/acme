@@ -4,8 +4,6 @@ date: 2022-09-21T09:44:55+02:00
 draft: false
 ---
 
-# Cáceres
-
 ## Primer día
 
 El viernes después de trabajar y hacer las maletas partimos en coche hacia Cáceres, desde Ciudad Real tardamos alrededor de 4 horas en llegar a nuestro destino.

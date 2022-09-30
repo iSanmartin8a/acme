@@ -4,8 +4,6 @@ date: 2022-09-21T09:13:42+02:00
 draft: false
 ---
 
-# Pirineos
-
 ## Primer día
 
 Cuando llegamos el sábado por la mañana, Ainsa en la comarca del Sobrarbe fue el  primer contacto con la zona de los Pirineos de Huesca. Centro neurálgico. Tiene una amplia oferta de servicios y de empresas turísticas. Hoteles, restaurantes y establecimientos de alquiler de material y actividades deportivas. La zona alta de la ciudad tiene un enclave privilegiado sobre el valle, convirtiéndose en un excelente mirador entre los dos ríos. Además de ser uno de los pueblos más bonitos de España. Conserva el entramado medieval y parte del castillo. Merece la pena para pasar un día de turismo familiar aunque, mejor evita el mes de agosto.
