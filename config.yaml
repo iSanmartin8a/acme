@@ -1,7 +1,7 @@
 baseURL: http://localhost:1313/acme/
 languageCode: es-es 
 title: Acme Corporation 
-theme: MyTheme 
+theme: ["MyTheme", "hugo-shortcode-gallery"]
 
 author: 
   facebook: "https://facebook.com/acme" 
@@ -11,6 +11,34 @@ author:
   location: Zaragoza
   phone: (999) 999-9999 
   hours: "**Lunes-Viernes** 9:00AM - 6:00PM" 
+
+  menu:
+  main:
+    - identifier: about 
+      name: Acerca de 
+      url: /about 
+      weight: 200 
+    - identifier: contact
+      name: Contacto 
+      url: /contact 
+      weight: 100 
+    - identifier: peliculas
+      name: Películas
+      url: /peliculas/peliculas
+      weight: 50  
+    - identifier: colegios
+      name: Colegios
+      url: /colegios/colegios
+      weight: 50  
+    - identifier: blog
+      name: Blog
+      url: /blog
+      weight: 50  
+    - identifier: viajes
+      name: Viajes 
+      url: /travels
+      pageRef: viajes
+      weight: 40      
 
 params: 
   color: "#4f46e5"
