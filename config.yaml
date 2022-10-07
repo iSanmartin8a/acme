@@ -1,7 +1,7 @@
 baseURL: http://localhost:1313/acme/
 languageCode: es-es 
 title: Acme Corporation 
-theme: ["MyTheme", "hugo-shortcode-gallery"]
+theme: MyTheme
 
 author: 
   facebook: "https://facebook.com/acme" 
